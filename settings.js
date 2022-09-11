@@ -53,7 +53,7 @@ global.botname = 'MITSURI KANROJI - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "MITSURI KANROJI" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ ◉ mitsuri kanroji ]' //
 
 //database
 global.premium = ['+2250787737416'] //ur premium numbers
@@ -66,7 +66,7 @@ global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
     admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
+    botAdmin: 'Bot wants to be an Admin',
     owner: 'Only Owner can use this!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
