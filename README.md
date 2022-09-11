@@ -1,5 +1,5 @@
 <p align="center">
-<img src="C:\Users\ADOU ASSALE\Downloads" alt="Loading..." width="320"/>
+<img src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-576.gif" alt="Loading..." width="320"/>
 <p align="center">
 <img src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-576.gif" alt="nz" width="350"/>
 </p>
